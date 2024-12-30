@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: bibliography.bib
+Warning--empty institution in algorithm_bib18
+Warning--there's a number but no volume in eisagwgi_alg_bib12
+You've used 140 entries,
+            1935 wiz_defined-function locations,
+            1233 strings with 33343 characters,
+and the built_in function-call counts, 61376 in all, are:
+= -- 5837
+> -- 3189
+< -- 64
++ -- 1143
+- -- 1103
+* -- 5533
+:= -- 10861
+add.period$ -- 427
+call.type$ -- 140
+change.case$ -- 1230
+chr.to.int$ -- 138
+cite$ -- 142
+duplicate$ -- 2064
+empty$ -- 3914
+format.name$ -- 1293
+if$ -- 11775
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 131
+newline$ -- 698
+num.names$ -- 444
+pop$ -- 1002
+preamble$ -- 1
+purify$ -- 1235
+quote$ -- 0
+skip$ -- 1559
+stack$ -- 0
+substring$ -- 4061
+swap$ -- 242
+text.length$ -- 17
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 832
+warning$ -- 2
+while$ -- 471
+width$ -- 0
+write$ -- 1825
+(There were 2 warnings)

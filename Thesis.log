@@ -1,0 +1,3111 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.9)  30 DEC 2024 19:57
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/thodo/Desktop/Desktop/Thesis/Thesis.tex
+(c:/Users/thodo/Desktop/Desktop/Thesis/Thesis.tex
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-10-09>
+(C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@chapter=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/10/20 v24.12 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count271
+\U@D=\dimen142
+\l@unhyphenated=\language79
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count272
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/babel-greek\greek.ldf
+Language: greek 2023/10/13 1.15 Greek support for the babel system
+\bbl@monogreek=\count273
+\bbl@polygreek=\count274
+\bbl@ancientgreek=\count275
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.def
+File: lgrenc.def 2023-09-12 2.5 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/greek-inputenc\lgrenc.dfu
+File: lgrenc.dfu 2023-03-21 1.9 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DE (decimal 990)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fontenc.def
+File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
+)))) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/el\babel-greek.tex
+Package babel Info: Importing font and identification data for greek
+(babel)             from babel-el.ini. Reported on input line 11.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tempora\tempora.sty
+Package: tempora 2016/02/02 (msharpe) Style file for Tempora.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2enc.def
+File: ot2enc.def 2022/06/11 v3.3b Cyrillic encoding definition file
+Now handling font encoding OT2 ...
+... processing UTF-8 mapping file for font encoding OT2
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\ot2enc.dfu
+File: ot2enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0462 (decimal 1122)
+   defining Unicode char U+0463 (decimal 1123)
+   defining Unicode char U+0472 (decimal 1138)
+   defining Unicode char U+0473 (decimal 1139)
+   defining Unicode char U+0474 (decimal 1140)
+   defining Unicode char U+0475 (decimal 1141)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2116 (decimal 8470)
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2cenc.def
+File: t2cenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+Now handling font encoding T2C ...
+... processing UTF-8 mapping file for font encoding T2C
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\t2cenc.dfu
+File: t2cenc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+048C (decimal 1164)
+   defining Unicode char U+048D (decimal 1165)
+   defining Unicode char U+048E (decimal 1166)
+   defining Unicode char U+048F (decimal 1167)
+   defining Unicode char U+0494 (decimal 1172)
+   defining Unicode char U+0495 (decimal 1173)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049E (decimal 1182)
+   defining Unicode char U+049F (decimal 1183)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A6 (decimal 1190)
+   defining Unicode char U+04A7 (decimal 1191)
+   defining Unicode char U+04A8 (decimal 1192)
+   defining Unicode char U+04A9 (decimal 1193)
+   defining Unicode char U+04AC (decimal 1196)
+   defining Unicode char U+04AD (decimal 1197)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B4 (decimal 1204)
+   defining Unicode char U+04B5 (decimal 1205)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04BC (decimal 1212)
+   defining Unicode char U+04BD (decimal 1213)
+   defining Unicode char U+04BE (decimal 1214)
+   defining Unicode char U+04BF (decimal 1215)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04C5 (decimal 1221)
+   defining Unicode char U+04C6 (decimal 1222)
+   defining Unicode char U+04C7 (decimal 1223)
+   defining Unicode char U+04C8 (decimal 1224)
+   defining Unicode char U+04CD (decimal 1229)
+   defining Unicode char U+04CE (decimal 1230)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E0 (decimal 1248)
+   defining Unicode char U+04E1 (decimal 1249)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2benc.def
+File: t2benc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+Now handling font encoding T2B ...
+... processing UTF-8 mapping file for font encoding T2B
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\t2benc.dfu
+File: t2benc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0494 (decimal 1172)
+   defining Unicode char U+0495 (decimal 1173)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04C3 (decimal 1219)
+   defining Unicode char U+04C4 (decimal 1220)
+   defining Unicode char U+04C5 (decimal 1221)
+   defining Unicode char U+04C6 (decimal 1222)
+   defining Unicode char U+04C7 (decimal 1223)
+   defining Unicode char U+04C8 (decimal 1224)
+   defining Unicode char U+04CB (decimal 1227)
+   defining Unicode char U+04CC (decimal 1228)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E0 (decimal 1248)
+   defining Unicode char U+04E1 (decimal 1249)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F6 (decimal 1270)
+   defining Unicode char U+04F7 (decimal 1271)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+04FA (decimal 1274)
+   defining Unicode char U+04FB (decimal 1275)
+   defining Unicode char U+04FC (decimal 1276)
+   defining Unicode char U+04FD (decimal 1277)
+   defining Unicode char U+04FE (decimal 1278)
+   defining Unicode char U+04FF (decimal 1279)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count276
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count277
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count278
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count279
+\output=\toks21
+\linenoprevgraf=\count280
+\linenumbersep=\dimen143
+\linenumberwidth=\dimen144
+\c@linenumber=\count281
+\c@pagewiselinenumber=\count282
+\c@LN@truepage=\count283
+\c@internallinenumber=\count284
+\c@internallinenumbers=\count285
+\quotelinenumbersep=\dimen145
+\bframerule=\dimen146
+\bframesep=\dimen147
+\bframebox=\box52
+LaTeX Info: Redefining \\ on input line 3180.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/10/30 v2.17s AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen148
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count286
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count287
+\leftroot@=\count288
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count289
+\DOTSCASE@=\count290
+LaTeX Info: Redefining \ldots on input line 502.
+LaTeX Info: Redefining \dots on input line 505.
+LaTeX Info: Redefining \cdots on input line 638.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 740.
+LaTeX Info: Redefining \Big on input line 741.
+LaTeX Info: Redefining \bigg on input line 742.
+LaTeX Info: Redefining \Bigg on input line 743.
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 761.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 762.
+\macc@depth=\count291
+LaTeX Info: Redefining \bmod on input line 923.
+LaTeX Info: Redefining \pmod on input line 928.
+LaTeX Info: Redefining \smash on input line 958.
+LaTeX Info: Redefining \relbar on input line 988.
+LaTeX Info: Redefining \Relbar on input line 989.
+\c@MaxMatrixCols=\count292
+\dotsspace@=\muskip17
+\c@parentequation=\count293
+\dspbrk@lvl=\count294
+\tag@help=\toks23
+\row@=\count295
+\column@=\count296
+\maxfields@=\count297
+\andhelp@=\toks24
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks25
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2972.
+LaTeX Info: Redefining \] on input line 2973.
+)
+\linenoamsmath@ams@eqpen=\count298
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2024-09-30 v3.3.22 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count299
+\l__siunitx_number_exponent_fixed_int=\count300
+\l__siunitx_number_min_decimal_int=\count301
+\l__siunitx_number_min_integer_int=\count302
+\l__siunitx_number_round_precision_int=\count303
+\l__siunitx_number_lower_threshold_int=\count304
+\l__siunitx_number_upper_threshold_int=\count305
+\l__siunitx_number_group_first_int=\count306
+\l__siunitx_number_group_size_int=\count307
+\l__siunitx_number_group_minimum_int=\count308
+\l__siunitx_angle_tmp_dim=\dimen157
+\l__siunitx_angle_marker_box=\box55
+\l__siunitx_angle_unit_box=\box56
+\l__siunitx_compound_count_int=\count309
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_table_tmp_box=\box57
+\l__siunitx_table_tmp_dim=\dimen158
+\l__siunitx_table_column_width_dim=\dimen159
+\l__siunitx_table_integer_box=\box58
+\l__siunitx_table_decimal_box=\box59
+\l__siunitx_table_uncert_box=\box60
+\l__siunitx_table_before_box=\box61
+\l__siunitx_table_after_box=\box62
+\l__siunitx_table_before_dim=\dimen160
+\l__siunitx_table_carry_dim=\dimen161
+\l__siunitx_unit_tmp_int=\count310
+\l__siunitx_unit_position_int=\count311
+\l__siunitx_unit_total_int=\count312
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen162
+\ar@mcellbox=\box63
+\extrarowheight=\dimen163
+\NC@list=\toks27
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box64
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count313
+\Gm@cntv=\count314
+\c@Gm@tempcnt=\count315
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks28
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen174
+\WF@size=\dimen175
+\c@WF@wrappedlines=\count316
+\WF@box=\box65
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count317
+\csq@gtype=\count318
+\csq@glevel=\count319
+\csq@qlevel=\count320
+\csq@maxlvl=\count321
+\csq@tshold=\count322
+\csq@ltx@everypar=\toks30
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks31
+\AP@partial=\box66
+\AP@footins=\box67
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen176
+\captionmargin=\dimen177
+\caption@leftmargin=\dimen178
+\caption@rightmargin=\dimen179
+\caption@width=\dimen180
+\caption@indent=\dimen181
+\caption@parindent=\dimen182
+\caption@hangindent=\dimen183
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count323
+\c@continuedfloat=\count324
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count325
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count326
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen184
+\lightrulewidth=\dimen185
+\cmidrulewidth=\dimen186
+\belowrulesep=\dimen187
+\belowbottomsep=\dimen188
+\aboverulesep=\dimen189
+\abovetopsep=\dimen190
+\cmidrulesep=\dimen191
+\cmidrulekern=\dimen192
+\defaultaddspace=\dimen193
+\@cmidla=\count327
+\@cmidlb=\count328
+\@aboverulesep=\dimen194
+\@belowrulesep=\dimen195
+\@thisruleclass=\count329
+\@lastruleclass=\count330
+\@thisrulewidth=\dimen196
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/xfrac\xfrac.sty
+Package: xfrac 2024-06-04 Split-level fractions
+\l__xfrac_slash_box=\box68
+\l__xfrac_tmp_box=\box69
+\l__xfrac_denominator_bot_sep_dim=\dimen197
+\l__xfrac_numerator_bot_sep_dim=\dimen198
+\l__xfrac_numerator_top_sep_dim=\dimen199
+\l__xfrac_slash_left_sep_dim=\dimen256
+\l__xfrac_slash_right_sep_dim=\dimen257
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+LaTeX template Info: Declaring template type 'xfrac' taking 3 argument(s) on
+(template)           line 100.
+
+
+LaTeX template Info: Declaring instance 'cmr' of type xfrac on line 392.
+
+
+LaTeX template Info: Declaring instance 'cmss' of type xfrac on line 392.
+
+
+LaTeX template Info: Declaring instance 'cmtt' of type xfrac on line 392.
+
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip67
+\multirow@cntb=\count331
+\multirow@dima=\skip68
+\bigstrutjot=\dimen258
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-10-09 L3 programming layer (loader) 
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count332
+\l__pdf_internal_box=\box70
+))
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count333
+\l__lipsum_a_int=\count334
+\l__lipsum_b_int=\count335
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count336
+\cp@tempcnt=\count337
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen259
+\c@nlinenum=\count338
+\TeXr@lab=\toks32
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count339
+\float@exts=\toks33
+\float@box=\box71
+\@float@everytoks=\toks34
+\@floatcapt=\box72
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box73
+)
+\tc@llx=\dimen260
+\tc@lly=\dimen261
+\tc@urx=\dimen262
+\tc@ury=\dimen263
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen264
+\adjbox@Height=\dimen265
+\adjbox@Depth=\dimen266
+\adjbox@Totalheight=\dimen267
+\adjbox@pwidth=\dimen268
+\adjbox@pheight=\dimen269
+\adjbox@pdepth=\dimen270
+\adjbox@ptotalheight=\dimen271
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count340
+LaTeX Info: Redefining \checkoddpage on input line 45.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box74
+\sift@deathcycles=\count341
+\@vwid@loff=\dimen272
+\@vwid@roff=\dimen273
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen274
+\pgfutil@tempdimb=\dimen275
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box75
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen276
+\pgf@y=\dimen277
+\pgf@xa=\dimen278
+\pgf@ya=\dimen279
+\pgf@xb=\dimen280
+\pgf@yb=\dimen281
+\pgf@xc=\dimen282
+\pgf@yc=\dimen283
+\pgf@xd=\dimen284
+\pgf@yd=\dimen285
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count342
+\c@pgf@countb=\count343
+\c@pgf@countc=\count344
+\c@pgf@countd=\count345
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count346
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count347
+\pgfsyssoftpath@bigbuffer@items=\count348
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen286
+\pgfmath@count=\count349
+\pgfmath@box=\box76
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count350
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen287
+\pgf@picmaxx=\dimen288
+\pgf@picminy=\dimen289
+\pgf@picmaxy=\dimen290
+\pgf@pathminx=\dimen291
+\pgf@pathmaxx=\dimen292
+\pgf@pathminy=\dimen293
+\pgf@pathmaxy=\dimen294
+\pgf@xx=\dimen295
+\pgf@xy=\dimen296
+\pgf@yx=\dimen297
+\pgf@yy=\dimen298
+\pgf@zx=\dimen299
+\pgf@zy=\dimen300
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen301
+\pgf@path@lasty=\dimen302
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen303
+\pgf@shorten@start@additional=\dimen304
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box77
+\pgf@hbox=\box78
+\pgf@layerbox@main=\box79
+\pgf@picture@serial@count=\count351
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen305
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen306
+\pgf@pt@y=\dimen307
+\pgf@pt@temp=\dimen308
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen309
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen310
+\pgf@sys@shading@range@num=\count352
+\pgf@shadingcount=\count353
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box80
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box81
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen311
+\pgf@nodesepend=\dimen312
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen313
+\pgffor@skip=\dimen314
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count354
+\pgfplotmarksize=\dimen315
+)
+\tikz@lastx=\dimen316
+\tikz@lasty=\dimen317
+\tikz@lastxsaved=\dimen318
+\tikz@lastysaved=\dimen319
+\tikz@lastmovetox=\dimen320
+\tikz@lastmovetoy=\dimen321
+\tikzleveldistance=\dimen322
+\tikzsiblingdistance=\dimen323
+\tikz@figbox=\box82
+\tikz@figbox@bg=\box83
+\tikz@tempbox=\box84
+\tikz@tempbox@bg=\box85
+\tikztreelevel=\count355
+\tikznumberofchildren=\count356
+\tikznumberofcurrentchild=\count357
+\tikz@fig@count=\count358
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count359
+\pgfmatrixcurrentcolumn=\count360
+\pgf@matrix@numberofcolumns=\count361
+)
+\tikz@expandcount=\count362
+
+(C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen324
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count363
+\lst@gtempboxa=\box86
+\lst@token=\toks47
+\lst@length=\count364
+\lst@currlwidth=\dimen325
+\lst@column=\count365
+\lst@pos=\count366
+\lst@lostspace=\dimen326
+\lst@width=\dimen327
+\lst@newlines=\count367
+\lst@lineno=\count368
+\lst@maxwidth=\dimen328
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count369
+\lst@skipnumbers=\count370
+\lst@framebox=\box87
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count371
+\c@@ppsavesec=\count372
+\c@@ppsaveapp=\count373
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks48
+\labelindent=\skip69
+\enit@outerparindent=\dimen329
+\enit@toks=\toks49
+\enit@inbox=\box88
+\enit@count@id=\count374
+\enitdp@description=\count375
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen330
+\TX@old@table=\dimen331
+\TX@old@col=\dimen332
+\TX@target=\dimen333
+\TX@delta=\dimen334
+\TX@cols=\count376
+\TX@ftn=\toks50
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box89
+\beforetitleunit=\skip70
+\aftertitleunit=\skip71
+\ttl@plus=\dimen335
+\ttl@minus=\dimen336
+\ttl@toksa=\toks51
+\titlewidth=\dimen337
+\titlewidthlast=\dimen338
+\titlewidthfirst=\dimen339
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip72
+\cftbeforetoctitleskip=\skip73
+\cftaftertoctitleskip=\skip74
+\cftbeforepartskip=\skip75
+\cftpartnumwidth=\skip76
+\cftpartindent=\skip77
+\cftbeforechapskip=\skip78
+\cftchapindent=\skip79
+\cftchapnumwidth=\skip80
+\cftbeforesecskip=\skip81
+\cftsecindent=\skip82
+\cftsecnumwidth=\skip83
+\cftbeforesubsecskip=\skip84
+\cftsubsecindent=\skip85
+\cftsubsecnumwidth=\skip86
+\cftbeforesubsubsecskip=\skip87
+\cftsubsubsecindent=\skip88
+\cftsubsubsecnumwidth=\skip89
+\cftbeforeparaskip=\skip90
+\cftparaindent=\skip91
+\cftparanumwidth=\skip92
+\cftbeforesubparaskip=\skip93
+\cftsubparaindent=\skip94
+\cftsubparanumwidth=\skip95
+\cftbeforeloftitleskip=\skip96
+\cftafterloftitleskip=\skip97
+\cftbeforefigskip=\skip98
+\cftfigindent=\skip99
+\cftfignumwidth=\skip100
+\c@lofdepth=\count377
+\c@lotdepth=\count378
+\cftbeforelottitleskip=\skip101
+\cftafterlottitleskip=\skip102
+\cftbeforetabskip=\skip103
+\cfttabindent=\skip104
+\cfttabnumwidth=\skip105
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2023/10/27 v2.16 TOC entries
+\ttl@leftsep=\dimen340
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'greek'.
+LaTeX Font Info:    Trying to load font information for T1+Tempora-TLF on input line 236.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t1tempora-tlf.fd
+File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TLF.
+)
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 236.
+ (Thesis.aux
+LaTeX Font Info:    Trying to load font information for LGR+Tempora-TLF on input line 5.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tempora\lgrtempora-tlf.fd
+File: lgrtempora-tlf.fd 2015/09/13 Font definitions for LGR/Tempora.
+)
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 5.
+)
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 236.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 236.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 236.
+LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 236.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2cmr.fd
+File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 236.
+LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 236.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
+File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 236.
+LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 236.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
+File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 236.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 236.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 236.
+\c@mv@tabular=\count379
+\c@mv@boldtabular=\count380
+Package translations Info: no dictionary file `translations-basic-dictionary-greek.trsl' found. on input line 236.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 236.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count381
+\scratchdimen=\dimen341
+\scratchbox=\box90
+\nofMPsegments=\count382
+\nofMParguments=\count383
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count384
+\MPscratchDim=\dimen342
+\MPnumerator=\count385
+\makeMPintoPDFobject=\count386
+\everyMPtoPDFconversion=\toks53
+) (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen343
+\caption@adjustwidth@linewidth=\dimen344
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count387
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=731.23584pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<Figures/University_of_Patras.png, id=4, 488.5452pt x 177.3024pt>
+File: Figures/University_of_Patras.png Graphic file (type png)
+<use Figures/University_of_Patras.png>
+Package pdftex.def Info: Figures/University_of_Patras.png  used on input line 246.
+(pdftex.def)             Requested size: 324.36473pt x 117.72063pt.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 250.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 250.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 258.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 258.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 262.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 262.
+
+
+[1
+
+
+{C:/Users/thodo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/lgr-tempora.enc} <./Figures/University_of_Patras.png>]
+
+[1]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(113.81102pt, 674.33032pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=674.33032pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+[1
+
+]
+
+[1]
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/it' will be
+(Font)              scaled to size 17.28pt on input line 333.
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/it' will be
+(Font)              scaled to size 17.28pt on input line 333.
+
+
+[1{C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_aq2g6w.enc}]
+
+[1]
+
+[1
+
+
+{C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_jglahm.enc}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 389.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 389.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[2
+
+]
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 422.
+
+
+[3
+
+]
+
+[4
+
+] (Thesis.toc
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
+
+
+[5])
+\tf@toc=\write4
+\openout4 = `Thesis.toc'.
+
+
+
+[6] (Thesis.lof
+Overfull \hbox (1.68076pt too wide) in paragraph at lines 10--10
+ [][] []\LGR/Tempora-TLF/m/n/12 Antistrofèac tˆshc []\T1/Tempora-TLF/m/n/12 MMS-E Se-ries In-vert-er/Charger []\LGR/Tempora-TLF/m/n/12 tou fw-to-bol-ta-ðko-Ô su-st ma- 
+ []
+
+
+
+[7
+
+]
+LaTeX Font Info:    Trying to load font information for OT1+Tempora-TLF on input line 43.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.fd
+File: OT1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for OT1/Tempora-TLF.
+)
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 43.
+
+
+[8{C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_q3dzgc.enc}]
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 54.
+)
+\tf@lof=\write5
+\openout5 = `Thesis.lof'.
+
+
+
+[9] (Thesis.lot)
+\tf@lot=\write6
+\openout6 = `Thesis.lot'.
+
+
+
+[10
+
+]
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 496.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 496.
+
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+<Figures/Greenhouse.jpg, id=92, 3011.25pt x 2472.23625pt>
+File: Figures/Greenhouse.jpg Graphic file (type jpg)
+<use Figures/Greenhouse.jpg>
+Package pdftex.def Info: Figures/Greenhouse.jpg  used on input line 776.
+(pdftex.def)             Requested size: 386.95897pt x 317.66739pt.
+LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on input line 785.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.fd
+File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 785.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 6.81497pt on input line 785.
+
+
+[8{C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac5xuc.enc} <./Figures/Greenhouse.jpg>]
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 815.
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 815.
+
+
+[9]
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 835.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 835.
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 835.
+
+
+[10]
+<Figures/datalogger.jpg, id=105, 407.121pt x 271.0125pt>
+File: Figures/datalogger.jpg Graphic file (type jpg)
+<use Figures/datalogger.jpg>
+Package pdftex.def Info: Figures/datalogger.jpg  used on input line 865.
+(pdftex.def)             Requested size: 386.95897pt x 257.60513pt.
+<Figures/temp_meter_in.jpg, id=106, 2235.10031pt x 2988.66562pt>
+File: Figures/temp_meter_in.jpg Graphic file (type jpg)
+<use Figures/temp_meter_in.jpg>
+Package pdftex.def Info: Figures/temp_meter_in.jpg  used on input line 890.
+(pdftex.def)             Requested size: 193.47676pt x 236.13391pt.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 891.
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+<Figures/temp_meter_out.jpg, id=107, 1985.16656pt x 2661.19218pt>
+File: Figures/temp_meter_out.jpg Graphic file (type jpg)
+<use Figures/temp_meter_out.jpg>
+Package pdftex.def Info: Figures/temp_meter_out.jpg  used on input line 895.
+(pdftex.def)             Requested size: 193.46967pt x 236.12662pt.
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+
+[11 <./Figures/datalogger.jpg>]
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 911.
+LaTeX Font Info:    Font shape `LGR/Tempora-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 911.
+<Figures/pyranometer.jpg, id=112, 3011.25pt x 2653.915pt>
+File: Figures/pyranometer.jpg Graphic file (type jpg)
+<use Figures/pyranometer.jpg>
+Package pdftex.def Info: Figures/pyranometer.jpg  used on input line 934.
+(pdftex.def)             Requested size: 240.90492pt x 212.31754pt.
+
+
+[12 <./Figures/temp_meter_in.jpg> <./Figures/temp_meter_out.jpg>]
+<Figures/anemometer.jpg, id=116, 2114.90125pt x 2801.46625pt>
+File: Figures/anemometer.jpg Graphic file (type jpg)
+<use Figures/anemometer.jpg>
+Package pdftex.def Info: Figures/anemometer.jpg  used on input line 956.
+(pdftex.def)             Requested size: 169.19556pt x 224.12187pt.
+
+
+[13 <./Figures/pyranometer.jpg> <./Figures/anemometer.jpg>]
+<Figures/parlite.jpg, id=120, 2012.51875pt x 2589.675pt>
+File: Figures/parlite.jpg Graphic file (type jpg)
+<use Figures/parlite.jpg>
+Package pdftex.def Info: Figures/parlite.jpg  used on input line 981.
+(pdftex.def)             Requested size: 181.11887pt x 233.0607pt.
+
+
+[14 <./Figures/parlite.jpg>]
+
+[15]
+<Figures/PVs_northern.jpg, id=128, 216.81pt x 244.7325pt>
+File: Figures/PVs_northern.jpg Graphic file (type jpg)
+<use Figures/PVs_northern.jpg>
+Package pdftex.def Info: Figures/PVs_northern.jpg  used on input line 1121.
+(pdftex.def)             Requested size: 193.48961pt x 227.63246pt.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+<Figures/PVs_southern.jpg, id=129, 216.81pt x 252.945pt>
+File: Figures/PVs_southern.jpg Graphic file (type jpg)
+<use Figures/PVs_southern.jpg>
+Package pdftex.def Info: Figures/PVs_southern.jpg  used on input line 1126.
+(pdftex.def)             Requested size: 193.48961pt x 227.62523pt.
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+
+[16]
+
+[17 <./Figures/PVs_northern.jpg> <./Figures/PVs_southern.jpg>]
+<Figures/solar_charger.jpg, id=136, 289.08pt x 216.81pt>
+File: Figures/solar_charger.jpg Graphic file (type jpg)
+<use Figures/solar_charger.jpg>
+Package pdftex.def Info: Figures/solar_charger.jpg  used on input line 1223.
+(pdftex.def)             Requested size: 245.71915pt x 184.28935pt.
+
+
+[18]
+<Figures/inverter.jpg, id=140, 271.6695pt x 203.67pt>
+File: Figures/inverter.jpg Graphic file (type jpg)
+<use Figures/inverter.jpg>
+Package pdftex.def Info: Figures/inverter.jpg  used on input line 1250.
+(pdftex.def)             Requested size: 244.50026pt x 183.30128pt.
+
+
+[19 <./Figures/solar_charger.jpg> <./Figures/inverter.jpg>]
+<Figures/battery.jpg, id=144, 310.761pt x 179.361pt>
+File: Figures/battery.jpg Graphic file (type jpg)
+<use Figures/battery.jpg>
+Package pdftex.def Info: Figures/battery.jpg  used on input line 1276.
+(pdftex.def)             Requested size: 279.68231pt x 161.42339pt.
+<Figures/DinRail.jpg, id=145, 146.511pt x 195.4575pt>
+File: Figures/DinRail.jpg Graphic file (type jpg)
+<use Figures/DinRail.jpg>
+Package pdftex.def Info: Figures/DinRail.jpg  used on input line 1304.
+(pdftex.def)             Requested size: 146.51062pt x 195.45702pt.
+<Figures/split_core_a.jpg, id=146, 146.511pt x 195.4575pt>
+File: Figures/split_core_a.jpg Graphic file (type jpg)
+<use Figures/split_core_a.jpg>
+Package pdftex.def Info: Figures/split_core_a.jpg  used on input line 1313.
+(pdftex.def)             Requested size: 146.51062pt x 195.45702pt.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+<Figures/split_core_b.jpg, id=147, 146.511pt x 195.4575pt>
+File: Figures/split_core_b.jpg Graphic file (type jpg)
+<use Figures/split_core_b.jpg>
+Package pdftex.def Info: Figures/split_core_b.jpg  used on input line 1318.
+(pdftex.def)             Requested size: 146.51062pt x 195.45702pt.
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+<Figures/janus.jpg, id=148, 146.511pt x 187.902pt>
+File: Figures/janus.jpg Graphic file (type jpg)
+<use Figures/janus.jpg>
+Package pdftex.def Info: Figures/janus.jpg  used on input line 1327.
+(pdftex.def)             Requested size: 146.51062pt x 187.90154pt.
+
+
+[20 <./Figures/battery.jpg>]
+
+[21 <./Figures/DinRail.jpg> <./Figures/split_core_a.jpg> <./Figures/split_core_b.jpg> <./Figures/janus.jpg>]
+
+[22
+
+]
+
+[23]
+
+[24]
+
+[25]
+<Figures/NN_T_out.png, id=168, 1195.3458pt x 655.7298pt>
+File: Figures/NN_T_out.png Graphic file (type png)
+<use Figures/NN_T_out.png>
+Package pdftex.def Info: Figures/NN_T_out.png  used on input line 1486.
+(pdftex.def)             Requested size: 251.03003pt x 137.70732pt.
+
+Overfull \hbox (18.8576pt too wide) in paragraph at lines 1486--1487
+ [][] 
+ []
+
+<Figures/NN_RH_out.png, id=169, 1204.9818pt x 655.7298pt>
+File: Figures/NN_RH_out.png Graphic file (type png)
+<use Figures/NN_RH_out.png>
+Package pdftex.def Info: Figures/NN_RH_out.png  used on input line 1492.
+(pdftex.def)             Requested size: 253.05365pt x 137.70732pt.
+
+Overfull \hbox (20.88123pt too wide) in paragraph at lines 1492--1493
+ [][] 
+ []
+
+<Figures/NN_WS.png, id=170, 1185.7098pt x 655.7298pt>
+File: Figures/NN_WS.png Graphic file (type png)
+<use Figures/NN_WS.png>
+Package pdftex.def Info: Figures/NN_WS.png  used on input line 1500.
+(pdftex.def)             Requested size: 249.00641pt x 137.70732pt.
+
+Overfull \hbox (16.83398pt too wide) in paragraph at lines 1500--1501
+ [][] 
+ []
+
+<Figures/NN_SR.png, id=171, 1214.6178pt x 655.7298pt>
+File: Figures/NN_SR.png Graphic file (type png)
+<use Figures/NN_SR.png>
+Package pdftex.def Info: Figures/NN_SR.png  used on input line 1506.
+(pdftex.def)             Requested size: 255.07727pt x 137.70732pt.
+
+Overfull \hbox (22.90485pt too wide) in paragraph at lines 1506--1507
+ [][] 
+ []
+
+<Figures/NN_T_in.png, id=172, 1195.3458pt x 655.7298pt>
+File: Figures/NN_T_in.png Graphic file (type png)
+<use Figures/NN_T_in.png>
+Package pdftex.def Info: Figures/NN_T_in.png  used on input line 1514.
+(pdftex.def)             Requested size: 251.03003pt x 137.70732pt.
+
+Overfull \hbox (18.8576pt too wide) in paragraph at lines 1514--1515
+ [][] 
+ []
+
+<Figures/NN_RH_in.png, id=173, 1882.78406pt x 1024.57782pt>
+File: Figures/NN_RH_in.png Graphic file (type png)
+<use Figures/NN_RH_in.png>
+Package pdftex.def Info: Figures/NN_RH_in.png  used on input line 1520.
+(pdftex.def)             Requested size: 254.16489pt x 138.31203pt.
+
+Overfull \hbox (21.99246pt too wide) in paragraph at lines 1520--1521
+ [][] 
+ []
+
+
+
+[26
+
+ <./Figures/NN_T_out.png> <./Figures/NN_RH_out.png> <./Figures/NN_WS.png> <./Figures/NN_SR.png> <./Figures/NN_T_in.png> <./Figures/NN_RH_in.png>]
+<Figures/log_act_fcn.png, id=182, 669.2202pt x 655.7298pt>
+File: Figures/log_act_fcn.png Graphic file (type png)
+<use Figures/log_act_fcn.png>
+Package pdftex.def Info: Figures/log_act_fcn.png  used on input line 1566.
+(pdftex.def)             Requested size: 267.68333pt x 262.28726pt.
+
+
+[27
+
+ <./Figures/log_act_fcn.png>]
+LaTeX Font Info:    Trying to load font information for LGR+cmtt on input line 1633.
+ (C:\Users\thodo\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmtt.fd
+File: lgrcmtt.fd 2017/07/29 v1.2 Greek European Computer Typewriter
+)
+
+[28]
+<Figures/NN_struct.jpg, id=192, 588.69937pt x 618.81187pt>
+File: Figures/NN_struct.jpg Graphic file (type jpg)
+<use Figures/NN_struct.jpg>
+Package pdftex.def Info: Figures/NN_struct.jpg  used on input line 1658.
+(pdftex.def)             Requested size: 264.91226pt x 278.46277pt.
+
+
+[29 <./Figures/NN_struct.jpg>]
+<Figures/NN_struct_matlab.jpg, id=197, 323.40825pt x 88.53075pt>
+File: Figures/NN_struct_matlab.jpg Graphic file (type jpg)
+<use Figures/NN_struct_matlab.jpg>
+Package pdftex.def Info: Figures/NN_struct_matlab.jpg  used on input line 1679.
+(pdftex.def)             Requested size: 339.5788pt x 92.95729pt.
+<Figures/NN_MSE.jpg, id=198, 561.89925pt x 561.89925pt>
+File: Figures/NN_MSE.jpg Graphic file (type jpg)
+<use Figures/NN_MSE.jpg>
+Package pdftex.def Info: Figures/NN_MSE.jpg  used on input line 1708.
+(pdftex.def)             Requested size: 252.85233pt x 252.85233pt.
+
+
+[30 <./Figures/NN_struct_matlab.jpg>]
+<Figures/NN_T_in_pred.png, id=202, 1195.3458pt x 655.7298pt>
+File: Figures/NN_T_in_pred.png Graphic file (type png)
+<use Figures/NN_T_in_pred.png>
+Package pdftex.def Info: Figures/NN_T_in_pred.png  used on input line 1736.
+(pdftex.def)             Requested size: 435.32422pt x 238.80408pt.
+<Figures/NN_T_in_errors.png, id=203, 1204.9818pt x 655.7298pt>
+File: Figures/NN_T_in_errors.png Graphic file (type png)
+<use Figures/NN_T_in_errors.png>
+Package pdftex.def Info: Figures/NN_T_in_errors.png  used on input line 1744.
+(pdftex.def)             Requested size: 435.32422pt x 236.893pt.
+<Figures/NN_RH_in_pred.png, id=204, 1195.3458pt x 655.7298pt>
+File: Figures/NN_RH_in_pred.png Graphic file (type png)
+<use Figures/NN_RH_in_pred.png>
+Package pdftex.def Info: Figures/NN_RH_in_pred.png  used on input line 1752.
+(pdftex.def)             Requested size: 435.32422pt x 238.80408pt.
+<Figures/NN_RH_in_errors.png, id=205, 1195.3458pt x 655.7298pt>
+File: Figures/NN_RH_in_errors.png Graphic file (type png)
+<use Figures/NN_RH_in_errors.png>
+Package pdftex.def Info: Figures/NN_RH_in_errors.png  used on input line 1761.
+(pdftex.def)             Requested size: 435.32422pt x 238.80408pt.
+
+
+[31 <./Figures/NN_MSE.jpg>]
+
+[32 <./Figures/NN_T_in_pred.png> <./Figures/NN_T_in_errors.png>]
+
+[33 <./Figures/NN_RH_in_pred.png> <./Figures/NN_RH_in_errors.png>]
+
+[34
+
+]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+<Figures/Earths_orbit_updated.jpg, id=252, 164.2938pt x 66.2475pt>
+File: Figures/Earths_orbit_updated.jpg Graphic file (type jpg)
+<use Figures/Earths_orbit_updated.jpg>
+Package pdftex.def Info: Figures/Earths_orbit_updated.jpg  used on input line 2324.
+(pdftex.def)             Requested size: 435.32422pt x 175.54591pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[44]
+
+[45 <./Figures/Earths_orbit_updated.jpg>]
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 2427.
+
+
+[46]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+<Figures/opaque_cover.jpg, id=280, 3011.25pt x 2965.0775pt>
+File: Figures/opaque_cover.jpg Graphic file (type jpg)
+<use Figures/opaque_cover.jpg>
+Package pdftex.def Info: Figures/opaque_cover.jpg  used on input line 2689.
+(pdftex.def)             Requested size: 240.90492pt x 237.21104pt.
+<Figures/pyranometers_pos.jpg, id=281, 562.1pt x 421.575pt>
+File: Figures/pyranometers_pos.jpg Graphic file (type jpg)
+<use Figures/pyranometers_pos.jpg>
+Package pdftex.def Info: Figures/pyranometers_pos.jpg  used on input line 2696.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+
+[52 <./Figures/opaque_cover.jpg> <./Figures/pyranometers_pos.jpg>]
+<Figures/sun_pos.jpg, id=285, 7679.4403pt x 3945.49031pt>
+File: Figures/sun_pos.jpg Graphic file (type jpg)
+<use Figures/sun_pos.jpg>
+Package pdftex.def Info: Figures/sun_pos.jpg  used on input line 2750.
+(pdftex.def)             Requested size: 435.32422pt x 223.65509pt.
+<Figures/matlab_grh_points_north.jpg, id=286, 40.7121pt x 35.4123pt>
+File: Figures/matlab_grh_points_north.jpg Graphic file (type jpg)
+<use Figures/matlab_grh_points_north.jpg>
+Package pdftex.def Info: Figures/matlab_grh_points_north.jpg  used on input line 2764.
+(pdftex.def)             Requested size: 195.4176pt x 169.97859pt.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+<Figures/matlab_grh_points_south.jpg, id=287, 40.7121pt x 35.4123pt>
+File: Figures/matlab_grh_points_south.jpg Graphic file (type jpg)
+<use Figures/matlab_grh_points_south.jpg>
+Package pdftex.def Info: Figures/matlab_grh_points_south.jpg  used on input line 2769.
+(pdftex.def)             Requested size: 195.4176pt x 169.97859pt.
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+Package babel Warning: Illegal value (0) for greeknumeral.
+
+
+
+[53]
+
+[54 <./Figures/sun_pos.jpg> <./Figures/matlab_grh_points_north.jpg> <./Figures/matlab_grh_points_south.jpg>]
+<Figures/3D_dec.jpg, id=294, 1250.42157pt x 678.28406pt>
+File: Figures/3D_dec.jpg Graphic file (type jpg)
+<use Figures/3D_dec.jpg>
+Package pdftex.def Info: Figures/3D_dec.jpg  used on input line 2787.
+(pdftex.def)             Requested size: 435.32422pt x 236.1403pt.
+<Figures/3D_mar.jpg, id=295, 1250.42157pt x 678.28406pt>
+File: Figures/3D_mar.jpg Graphic file (type jpg)
+<use Figures/3D_mar.jpg>
+Package pdftex.def Info: Figures/3D_mar.jpg  used on input line 2794.
+(pdftex.def)             Requested size: 435.32422pt x 236.1403pt.
+
+
+[55
+
+ <./Figures/3D_dec.jpg> <./Figures/3D_mar.jpg>]
+<Figures/3D_jun.jpg, id=299, 1250.42157pt x 678.28406pt>
+File: Figures/3D_jun.jpg Graphic file (type jpg)
+<use Figures/3D_jun.jpg>
+Package pdftex.def Info: Figures/3D_jun.jpg  used on input line 2803.
+(pdftex.def)             Requested size: 435.32422pt x 236.1403pt.
+<Figures/2D_dec.jpg, id=300, 3513.125pt x 2634.84375pt>
+File: Figures/2D_dec.jpg Graphic file (type jpg)
+<use Figures/2D_dec.jpg>
+Package pdftex.def Info: Figures/2D_dec.jpg  used on input line 2826.
+(pdftex.def)             Requested size: 256.45064pt x 192.33797pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/2D_mar.jpg, id=301, 3513.125pt x 2634.84375pt>
+File: Figures/2D_mar.jpg Graphic file (type jpg)
+<use Figures/2D_mar.jpg>
+Package pdftex.def Info: Figures/2D_mar.jpg  used on input line 2833.
+(pdftex.def)             Requested size: 256.45064pt x 192.33797pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/2D_jun.jpg, id=302, 3513.125pt x 2634.84375pt>
+File: Figures/2D_jun.jpg Graphic file (type jpg)
+<use Figures/2D_jun.jpg>
+Package pdftex.def Info: Figures/2D_jun.jpg  used on input line 2840.
+(pdftex.def)             Requested size: 256.45064pt x 192.33797pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[56
+
+ <./Figures/3D_jun.jpg>]
+
+[57 <./Figures/2D_dec.jpg> <./Figures/2D_mar.jpg> <./Figures/2D_jun.jpg>]
+<Figures/diurnal_perc.jpg, id=310, 5998.41pt x 2942.995pt>
+File: Figures/diurnal_perc.jpg Graphic file (type jpg)
+<use Figures/diurnal_perc.jpg>
+Package pdftex.def Info: Figures/diurnal_perc.jpg  used on input line 2876.
+(pdftex.def)             Requested size: 435.32422pt x 213.57498pt.
+
+
+[58
+
+ <./Figures/diurnal_perc.jpg>]
+<Figures/annual_perc.jpg, id=314, 4886.05424pt x 2597.50426pt>
+File: Figures/annual_perc.jpg Graphic file (type jpg)
+<use Figures/annual_perc.jpg>
+Package pdftex.def Info: Figures/annual_perc.jpg  used on input line 2899.
+(pdftex.def)             Requested size: 435.32422pt x 231.38722pt.
+<Figures/GHI_7_8_pyr_1.jpg, id=315, 1312.15219pt x 675.27281pt>
+File: Figures/GHI_7_8_pyr_1.jpg Graphic file (type jpg)
+<use Figures/GHI_7_8_pyr_1.jpg>
+Package pdftex.def Info: Figures/GHI_7_8_pyr_1.jpg  used on input line 2920.
+(pdftex.def)             Requested size: 435.32422pt x 224.02565pt.
+
+
+[59 <./Figures/annual_perc.jpg>]
+<Figures/GHI_7_8_pyr_2.jpg, id=319, 1312.15219pt x 673.76718pt>
+File: Figures/GHI_7_8_pyr_2.jpg Graphic file (type jpg)
+<use Figures/GHI_7_8_pyr_2.jpg>
+Package pdftex.def Info: Figures/GHI_7_8_pyr_2.jpg  used on input line 2929.
+(pdftex.def)             Requested size: 435.32422pt x 223.52615pt.
+
+
+[60 <./Figures/GHI_7_8_pyr_1.jpg> <./Figures/GHI_7_8_pyr_2.jpg>]
+<Figures/cv_1.jpg, id=323, 1193.20781pt x 685.8122pt>
+File: Figures/cv_1.jpg Graphic file (type jpg)
+<use Figures/cv_1.jpg>
+Package pdftex.def Info: Figures/cv_1.jpg  used on input line 2973.
+(pdftex.def)             Requested size: 435.32422pt x 250.20949pt.
+
+
+[61]
+<Figures/cv_2.jpg, id=327, 1194.71344pt x 685.8122pt>
+File: Figures/cv_2.jpg Graphic file (type jpg)
+<use Figures/cv_2.jpg>
+Package pdftex.def Info: Figures/cv_2.jpg  used on input line 2980.
+(pdftex.def)             Requested size: 435.32422pt x 249.89555pt.
+
+
+[62 <./Figures/cv_1.jpg> <./Figures/cv_2.jpg>]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+<figures/OP_ST_PVS_updated.jpg, id=344, 2107.875pt x 1918.16624pt>
+File: figures/OP_ST_PVS_updated.jpg Graphic file (type jpg)
+<use figures/OP_ST_PVS_updated.jpg>
+Package pdftex.def Info: figures/OP_ST_PVS_updated.jpg  used on input line 3162.
+(pdftex.def)             Requested size: 386.95897pt x 352.13321pt.
+
+
+[67]
+
+[68 <./figures/OP_ST_PVS_updated.jpg>]
+
+[69]
+
+[70]
+<figures/method_in.jpg, id=358, 263.48438pt x 112.92188pt>
+File: figures/method_in.jpg Graphic file (type jpg)
+<use figures/method_in.jpg>
+Package pdftex.def Info: figures/method_in.jpg  used on input line 3300.
+(pdftex.def)             Requested size: 217.66211pt x 93.28746pt.
+<figures/method_out.jpg, id=359, 261.97874pt x 149.05687pt>
+File: figures/method_out.jpg Graphic file (type jpg)
+<use figures/method_out.jpg>
+Package pdftex.def Info: figures/method_out.jpg  used on input line 3305.
+(pdftex.def)             Requested size: 217.66211pt x 123.84453pt.
+
+
+[71 <./figures/method_in.jpg> <./figures/method_out.jpg>]
+<figures/valid_fig.jpg, id=363, 645.91313pt x 803.25093pt>
+File: figures/valid_fig.jpg Graphic file (type jpg)
+<use figures/valid_fig.jpg>
+Package pdftex.def Info: figures/valid_fig.jpg  used on input line 3370.
+(pdftex.def)             Requested size: 290.22107pt x 360.90802pt.
+
+
+[72]
+
+[73 <./figures/valid_fig.jpg>]
+
+[74]
+<figures/29_Apr_GHI_1.jpg, id=373, 3011.25pt x 1497.595pt>
+File: figures/29_Apr_GHI_1.jpg Graphic file (type jpg)
+<use figures/29_Apr_GHI_1.jpg>
+Package pdftex.def Info: figures/29_Apr_GHI_1.jpg  used on input line 3451.
+(pdftex.def)             Requested size: 255.97585pt x 127.30531pt.
+
+Overfull \hbox (14.12741pt too wide) in paragraph at lines 3451--3452
+ [][] 
+ []
+
+<figures/29_Apr_GHI_2.jpg, id=374, 3011.25pt x 1497.595pt>
+File: figures/29_Apr_GHI_2.jpg Graphic file (type jpg)
+<use figures/29_Apr_GHI_2.jpg>
+Package pdftex.def Info: figures/29_Apr_GHI_2.jpg  used on input line 3457.
+(pdftex.def)             Requested size: 255.97585pt x 127.30531pt.
+
+Overfull \hbox (14.12741pt too wide) in paragraph at lines 3457--3458
+ [][] 
+ []
+
+<figures/28_May_GHI_1.jpg, id=375, 3011.25pt x 1497.595pt>
+File: figures/28_May_GHI_1.jpg Graphic file (type jpg)
+<use figures/28_May_GHI_1.jpg>
+Package pdftex.def Info: figures/28_May_GHI_1.jpg  used on input line 3465.
+(pdftex.def)             Requested size: 255.97585pt x 127.30531pt.
+
+Overfull \hbox (14.12741pt too wide) in paragraph at lines 3465--3466
+ [][] 
+ []
+
+<figures/28_May_GHI_2.jpg, id=376, 3011.25pt x 1497.595pt>
+File: figures/28_May_GHI_2.jpg Graphic file (type jpg)
+<use figures/28_May_GHI_2.jpg>
+Package pdftex.def Info: figures/28_May_GHI_2.jpg  used on input line 3471.
+(pdftex.def)             Requested size: 255.97585pt x 127.30531pt.
+
+Overfull \hbox (14.12741pt too wide) in paragraph at lines 3471--3472
+ [][] 
+ []
+
+<figures/21_Jun_GHI_1.jpg, id=377, 3011.25pt x 1497.595pt>
+File: figures/21_Jun_GHI_1.jpg Graphic file (type jpg)
+<use figures/21_Jun_GHI_1.jpg>
+Package pdftex.def Info: figures/21_Jun_GHI_1.jpg  used on input line 3479.
+(pdftex.def)             Requested size: 255.97585pt x 127.30531pt.
+
+Overfull \hbox (14.12741pt too wide) in paragraph at lines 3479--3480
+ [][] 
+ []
+
+<figures/21_Jun_GHI_2.jpg, id=378, 3011.25pt x 1497.595pt>
+File: figures/21_Jun_GHI_2.jpg Graphic file (type jpg)
+<use figures/21_Jun_GHI_2.jpg>
+Package pdftex.def Info: figures/21_Jun_GHI_2.jpg  used on input line 3485.
+(pdftex.def)             Requested size: 255.97585pt x 127.30531pt.
+
+Overfull \hbox (14.12741pt too wide) in paragraph at lines 3485--3486
+ [][] 
+ []
+
+
+
+[75]
+
+[76 <./figures/29_Apr_GHI_1.jpg> <./figures/29_Apr_GHI_2.jpg> <./figures/28_May_GHI_1.jpg> <./figures/28_May_GHI_2.jpg> <./figures/21_Jun_GHI_1.jpg> <./figures/21_Jun_GHI_2.jpg>]
+
+[77]
+<figures/CV_1_sec_5.jpg, id=389, 3736.96124pt x 1990.43625pt>
+File: figures/CV_1_sec_5.jpg Graphic file (type jpg)
+<use figures/CV_1_sec_5.jpg>
+Package pdftex.def Info: figures/CV_1_sec_5.jpg  used on input line 3579.
+(pdftex.def)             Requested size: 435.32422pt x 231.85658pt.
+<figures/CV_2_sec_5.jpg, id=390, 3739.9725pt x 1986.67218pt>
+File: figures/CV_2_sec_5.jpg Graphic file (type jpg)
+<use figures/CV_2_sec_5.jpg>
+Package pdftex.def Info: figures/CV_2_sec_5.jpg  used on input line 3588.
+(pdftex.def)             Requested size: 435.32422pt x 231.23624pt.
+
+
+[78 <./figures/CV_1_sec_5.jpg>]
+
+[79 <./figures/CV_2_sec_5.jpg>]
+<figures/GHI_1_22_06.jpg, id=397, 6004.4325pt x 2962.06625pt>
+File: figures/GHI_1_22_06.jpg Graphic file (type jpg)
+<use figures/GHI_1_22_06.jpg>
+Package pdftex.def Info: figures/GHI_1_22_06.jpg  used on input line 3631.
+(pdftex.def)             Requested size: 435.32422pt x 214.733pt.
+<figures/GHI_2_22_06.jpg, id=398, 6004.4325pt x 2962.06625pt>
+File: figures/GHI_2_22_06.jpg Graphic file (type jpg)
+<use figures/GHI_2_22_06.jpg>
+Package pdftex.def Info: figures/GHI_2_22_06.jpg  used on input line 3639.
+(pdftex.def)             Requested size: 435.32422pt x 214.733pt.
+<figures/PAR_1_22_06.jpg, id=399, 6002.425pt x 2962.06625pt>
+File: figures/PAR_1_22_06.jpg Graphic file (type jpg)
+<use figures/PAR_1_22_06.jpg>
+Package pdftex.def Info: figures/PAR_1_22_06.jpg  used on input line 3649.
+(pdftex.def)             Requested size: 435.32422pt x 214.7782pt.
+<figures/PAR_2_22_06.jpg, id=400, 6002.425pt x 2962.06625pt>
+File: figures/PAR_2_22_06.jpg Graphic file (type jpg)
+<use figures/PAR_2_22_06.jpg>
+Package pdftex.def Info: figures/PAR_2_22_06.jpg  used on input line 3657.
+(pdftex.def)             Requested size: 435.32422pt x 214.7782pt.
+
+
+[80 <./figures/GHI_1_22_06.jpg> <./figures/GHI_2_22_06.jpg>]
+
+[81 <./figures/PAR_1_22_06.jpg> <./figures/PAR_2_22_06.jpg>]
+
+[82]
+
+[83]
+
+[84]
+
+[85]
+
+[86]
+<figures/str_shading_temp.jpg, id=423, 4818.0pt x 2348.775pt>
+File: figures/str_shading_temp.jpg Graphic file (type jpg)
+<use figures/str_shading_temp.jpg>
+Package pdftex.def Info: figures/str_shading_temp.jpg  used on input line 3927.
+(pdftex.def)             Requested size: 435.32422pt x 212.20494pt.
+
+
+[87]
+<figures/str_cult_a.jpg, id=428, 225.0225pt x 169.1775pt>
+File: figures/str_cult_a.jpg Graphic file (type jpg)
+<use figures/str_cult_a.jpg>
+Package pdftex.def Info: figures/str_cult_a.jpg  used on input line 3951.
+(pdftex.def)             Requested size: 217.66724pt x 155.0024pt.
+<figures/str_cult_b.jpg, id=429, 281.5245pt x 241.4475pt>
+File: figures/str_cult_b.jpg Graphic file (type jpg)
+<use figures/str_cult_b.jpg>
+Package pdftex.def Info: figures/str_cult_b.jpg  used on input line 3956.
+(pdftex.def)             Requested size: 217.66803pt x 155.0048pt.
+
+
+[88 <./figures/str_shading_temp.jpg>]
+
+LaTeX Font Warning: Font shape `LGR/Tempora-TLF/m/sc' undefined
+(Font)              using `LGR/Tempora-TLF/m/n' instead on input line 3989.
+
+
+
+[89 <./figures/str_cult_a.jpg> <./figures/str_cult_b.jpg>]
+
+[90]
+<figures/vector_magn.jpg, id=439, 2881.76625pt x 1391.79974pt>
+File: figures/vector_magn.jpg Graphic file (type jpg)
+<use figures/vector_magn.jpg>
+Package pdftex.def Info: figures/vector_magn.jpg  used on input line 4069.
+(pdftex.def)             Requested size: 435.32422pt x 210.24754pt.
+<figures/leaves_flowers_a.jpg, id=440, 4803.9475pt x 2338.7375pt>
+File: figures/leaves_flowers_a.jpg Graphic file (type jpg)
+<use figures/leaves_flowers_a.jpg>
+Package pdftex.def Info: figures/leaves_flowers_a.jpg  used on input line 4091.
+(pdftex.def)             Requested size: 240.21144pt x 116.94373pt.
+<figures/leaves_flowers_b.jpg, id=441, 4803.9475pt x 2316.655pt>
+File: figures/leaves_flowers_b.jpg Graphic file (type jpg)
+<use figures/leaves_flowers_b.jpg>
+Package pdftex.def Info: figures/leaves_flowers_b.jpg  used on input line 4097.
+(pdftex.def)             Requested size: 240.21144pt x 115.83952pt.
+<figures/leaves_flowers_c.jpg, id=442, 4802.94376pt x 2319.66624pt>
+File: figures/leaves_flowers_c.jpg Graphic file (type jpg)
+<use figures/leaves_flowers_c.jpg>
+Package pdftex.def Info: figures/leaves_flowers_c.jpg  used on input line 4105.
+(pdftex.def)             Requested size: 240.16125pt x 115.9901pt.
+<figures/leaves_flowers_d.jpg, id=443, 4802.94376pt x 2319.66624pt>
+File: figures/leaves_flowers_d.jpg Graphic file (type jpg)
+<use figures/leaves_flowers_d.jpg>
+Package pdftex.def Info: figures/leaves_flowers_d.jpg  used on input line 4111.
+(pdftex.def)             Requested size: 240.16125pt x 115.9901pt.
+<figures/leaves_flowers_e.jpg, id=444, 4804.95125pt x 2355.80125pt>
+File: figures/leaves_flowers_e.jpg Graphic file (type jpg)
+<use figures/leaves_flowers_e.jpg>
+Package pdftex.def Info: figures/leaves_flowers_e.jpg  used on input line 4119.
+(pdftex.def)             Requested size: 240.26164pt x 117.79695pt.
+<figures/leaves_flowers_f.jpg, id=445, 4803.9475pt x 2355.80125pt>
+File: figures/leaves_flowers_f.jpg Graphic file (type jpg)
+<use figures/leaves_flowers_f.jpg>
+Package pdftex.def Info: figures/leaves_flowers_f.jpg  used on input line 4125.
+(pdftex.def)             Requested size: 240.21144pt x 117.79695pt.
+
+
+[91 <./figures/vector_magn.jpg>]
+<figures/red_weight_a.jpg, id=449, 4803.9475pt x 2316.655pt>
+File: figures/red_weight_a.jpg Graphic file (type jpg)
+<use figures/red_weight_a.jpg>
+Package pdftex.def Info: figures/red_weight_a.jpg  used on input line 4151.
+(pdftex.def)             Requested size: 240.21144pt x 115.83952pt.
+<figures/red_weight_b.jpg, id=450, 4803.9475pt x 2316.655pt>
+File: figures/red_weight_b.jpg Graphic file (type jpg)
+<use figures/red_weight_b.jpg>
+Package pdftex.def Info: figures/red_weight_b.jpg  used on input line 4157.
+(pdftex.def)             Requested size: 240.21144pt x 115.83952pt.
+<figures/red_weight_c.jpg, id=451, 4802.94376pt x 2319.66624pt>
+File: figures/red_weight_c.jpg Graphic file (type jpg)
+<use figures/red_weight_c.jpg>
+Package pdftex.def Info: figures/red_weight_c.jpg  used on input line 4165.
+(pdftex.def)             Requested size: 240.16125pt x 115.9901pt.
+<figures/red_weight_d.jpg, id=452, 4804.95125pt x 2319.66624pt>
+File: figures/red_weight_d.jpg Graphic file (type jpg)
+<use figures/red_weight_d.jpg>
+Package pdftex.def Info: figures/red_weight_d.jpg  used on input line 4171.
+(pdftex.def)             Requested size: 240.26164pt x 115.9901pt.
+<figures/red_weight_e.jpg, id=453, 4803.9475pt x 2333.71875pt>
+File: figures/red_weight_e.jpg Graphic file (type jpg)
+<use figures/red_weight_e.jpg>
+Package pdftex.def Info: figures/red_weight_e.jpg  used on input line 4179.
+(pdftex.def)             Requested size: 240.21144pt x 116.69276pt.
+<figures/red_weight_f.jpg, id=454, 4804.95125pt x 2333.71875pt>
+File: figures/red_weight_f.jpg Graphic file (type jpg)
+<use figures/red_weight_f.jpg>
+Package pdftex.def Info: figures/red_weight_f.jpg  used on input line 4185.
+(pdftex.def)             Requested size: 240.26164pt x 116.69276pt.
+
+
+[92 <./figures/leaves_flowers_a.jpg> <./figures/leaves_flowers_b.jpg> <./figures/leaves_flowers_c.jpg> <./figures/leaves_flowers_d.jpg> <./figures/leaves_flowers_e.jpg> <./figures/leaves_flowers_f.jpg>]
+
+[93 <./figures/red_weight_a.jpg> <./figures/red_weight_b.jpg> <./figures/red_weight_c.jpg> <./figures/red_weight_d.jpg> <./figures/red_weight_e.jpg> <./figures/red_weight_f.jpg>]
+<figures/GA.png, id=462, 423.546pt x 309.666pt>
+File: figures/GA.png Graphic file (type png)
+<use figures/GA.png>
+Package pdftex.def Info: figures/GA.png  used on input line 4233.
+(pdftex.def)             Requested size: 217.66653pt x 155.00272pt.
+<figures/TPC.png, id=463, 450.921pt x 294.555pt>
+File: figures/TPC.png Graphic file (type png)
+<use figures/TPC.png>
+Package pdftex.def Info: figures/TPC.png  used on input line 4238.
+(pdftex.def)             Requested size: 217.66435pt x 150.00082pt.
+<figures/L_ascorbic.png, id=464, 474.135pt x 339.012pt>
+File: figures/L_ascorbic.png Graphic file (type png)
+<use figures/L_ascorbic.png>
+Package pdftex.def Info: figures/L_ascorbic.png  used on input line 4258.
+(pdftex.def)             Requested size: 217.66342pt x 155.00076pt.
+<figures/DPPH.png, id=465, 416.538pt x 274.407pt>
+File: figures/DPPH.png Graphic file (type png)
+<use figures/DPPH.png>
+Package pdftex.def Info: figures/DPPH.png  used on input line 4263.
+(pdftex.def)             Requested size: 217.66243pt x 149.99896pt.
+
+
+[94 <./figures/GA.png> <./figures/TPC.png>]
+
+[95 <./figures/L_ascorbic.png> <./figures/DPPH.png>]
+
+[96]
+
+[97]
+
+[98]
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 4387.
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 4394.
+
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+
+[104]
+<Figures/SZA_SAA.jpg, id=505, 4852.32825pt x 2592.68625pt>
+File: Figures/SZA_SAA.jpg Graphic file (type jpg)
+<use Figures/SZA_SAA.jpg>
+Package pdftex.def Info: Figures/SZA_SAA.jpg  used on input line 4684.
+(pdftex.def)             Requested size: 435.32422pt x 232.58003pt.
+<Figures/diurnal_dist.jpg, id=506, 4958.32425pt x 2713.13625pt>
+File: Figures/diurnal_dist.jpg Graphic file (type jpg)
+<use Figures/diurnal_dist.jpg>
+Package pdftex.def Info: Figures/diurnal_dist.jpg  used on input line 4693.
+(pdftex.def)             Requested size: 435.32422pt x 238.16885pt.
+<Figures/annual_dist.jpg, id=507, 4890.87225pt x 2640.86626pt>
+File: Figures/annual_dist.jpg Graphic file (type jpg)
+<use Figures/annual_dist.jpg>
+Package pdftex.def Info: Figures/annual_dist.jpg  used on input line 4702.
+(pdftex.def)             Requested size: 435.32422pt x 235.04845pt.
+
+
+[105 <./Figures/SZA_SAA.jpg>]
+
+[106 <./Figures/diurnal_dist.jpg> <./Figures/annual_dist.jpg>] (Thesis.bbl
+
+[107
+
+
+]
+Overfull \hbox (5.46977pt too wide) in paragraph at lines 110--113
+[]\T1/Tempora-TLF/m/n/12 Brite So-lar (n.d.a).  Bsg-250-49 prod-uct data sheet.  https://www.britesolar.com/uploads/originals/1/bsg-
+ []
+
+
+
+[108]
+
+[109]
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115])
+
+[116] (Thesis.aux)
+ ***********
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-10-09>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 33814 strings out of 473702
+ 692421 string characters out of 5719438
+ 1720007 words of memory out of 5000000
+ 56297 multiletter control sequences out of 15000+600000
+ 636557 words of font info for 103 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,18n,117p,1339b,1904s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\thodo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecit1200.pk> <C:\Users\thodo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-BoldItalic.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/thodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Thesis.pdf (132 pages, 48803091 bytes).
+PDF statistics:
+ 736 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 453 words of extra memory for PDF output out of 10000 (max. 10000000)
+

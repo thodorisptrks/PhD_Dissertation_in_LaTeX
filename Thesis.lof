@@ -1,0 +1,89 @@
+\babel@toc {greek}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Βόρεια και Νότια Κατασκευαστική Μονάδα.}}{8}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces \foreignlanguage {english}{Datalogger CR1000}, διαkομιστής σειριαkής διεπαφής \foreignlanguage {english}{RS-232}, διεπαφή \foreignlanguage {english}{Ethernet NL115} και πολυπλέkτης ΑΜ16/32Α.}}{11}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Aισθητήρας \foreignlanguage {english}{MP101A-T7-WAW} (α) εντός του θερμοκηπίου (β) εκτός του θερμοκηπίου.}}{12}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Πυρανόμετρο \foreignlanguage {english}{CMP3} εντός του θερμοκηπίου.}}{13}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Ανεμόμετρο \foreignlanguage {english}{A100K}.}}{13}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Αισθητήρας φωτοσυνθετικά ενεργής ακτινοβολίας \foreignlanguage {english}{ParLite}.}}{14}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Φωτοβολταϊκά πλαίσια ενσωματωμένα στο νότιο κεκλιμένο επίπεδο της οροφής του θερμοκηπίου: (α) βόρεια κατασκευαστική μονάδα (β) νότια κατασκευαστική μονάδα.}}{17}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Ρυθμιστής φόρτισης \foreignlanguage {english}{SmartSolar MPPT 150/70 – MC4 VE.Can} του φωτοβολταϊκού συστήματος.}}{19}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Αντιστροφέας τάσης \foreignlanguage {english}{MMS-E Series Inverter/Charger} του φωτοβολταϊκού συστήματος.}}{19}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Mπαταρία \foreignlanguage {english}{Deep Cycle AGM} του φωτοβολταϊκού συστήματος.}}{20}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Tριφασικός ενεργειακός μετρητής (\foreignlanguage {english}{DinRail 3-Phase Advanced}).}}{21}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces \foreignlanguage {english}{Split-Core} μετασχηματιστές ρεύματος}}{21}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Συσκευή \foreignlanguage {english}{Janus Gateway}.}}{21}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Δεδομένα εκπαίδευσης/επικύρωσης και δοκιμής για (α) την εξωτερική θερμοκρασία (β) την εξωτερική σχετική υγρασία (γ) την ταχύτητα του ανέμου (δ) την ηλιακή ακτινοβολία (ε) την εσωτερική θερμοκρασία (στ) την εσωτερική σχετική υγρασία.}}{26}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Γραφική απεικόνιση της λογιστικής σιγμοειδούς συνάρτησης ενεργοποίησης.}}{27}{}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Δομή του νευρωνικού δικτύου.}}{29}{}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Δομή μοντέλου ΤΝΔ στην \foreignlanguage {english}{MATLAB}.}}{30}{}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Σύγκλιση του μέσου τετραγώνου σφάλματος ως προς τις επαναλήψεις κατά την διαδικασία εκπαίδευσης και επικύρωσης.}}{31}{}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Σύγκριση μεταξύ προβλεπόμενων τιμών και παρατηρήσεων για την θερμοκρασία εντός του θερμοκηπίου για την περίοδο δοκιμής και δομής νευρωνικού δικτύου 10-7-2.}}{32}{}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Σφάλματα μεταξύ προβλεπόμενων τιμών και παρατηρήσεων για την θερμοκρασία εντός του θερμοκηπίου για την περίοδο δοκιμής και δομής νευρωνικού δικτύου 10-7-2.}}{32}{}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Σύγκριση μεταξύ προβλεπόμενων τιμών και παρατηρήσεων για την σχετική υγρασία εντός του θερμοκηπίου για την περίοδο δοκιμής και δομής νευρωνικού δικτύου 10-7-2.}}{33}{}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Σφάλματα μεταξύ προβλεπόμενων τιμών και παρατηρήσεων για την σχετική υγρασία εντός του θερμοκηπίου για την περίοδο δοκιμής και δομής νευρωνικού δικτύου 10-7-2.}}{33}{}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Η ελλειπτική τροχιά της Γης γύρω από τον Ήλιο.}}{45}{}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Φωτοβολταϊκά πλαίσια καλυμμένα από αδιαφανές υλικό.}}{52}{}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Θέσεις των πυρανόμετρων μέσα στο θερμοκήπιο.}}{52}{}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Θέση του ήλιου στο καρτεσιανό σύστημα συντεταγμένων για τις 21 Δεκεμβρίου, 20 Μαρτίου και 21 Ιουνίου.}}{54}{}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Σημεία (κορυφές) για (α) τη νότια και (β) τη βόρεια κατασκευαστική μονάδα του θερμοκηπίου.}}{54}{}%
+\contentsline {figure}{\numberline {28}{\ignorespaces \foreignlanguage {english}{3D} αναπαράσταση του αποτελέσματος του αλγορίθμου για την 21η Δεκεμβρίου στις 12:00:00.}}{55}{}%
+\contentsline {figure}{\numberline {29}{\ignorespaces \foreignlanguage {english}{3D} αναπαράσταση του αποτελέσματος του αλγορίθμου για τις 20 Μαρτίου στις 12:00:00.}}{55}{}%
+\contentsline {figure}{\numberline {30}{\ignorespaces \foreignlanguage {english}{3D} αναπαράσταση του αποτελέσματος του αλγορίθμου για τις 21 Ιουνίου στις 12:00:00.}}{56}{}%
+\contentsline {figure}{\numberline {31}{\ignorespaces \foreignlanguage {english}{2D} αναπαράσταση του αποτελέσματος του αλγορίθμου για την 21η Δεκεμβρίου στις 12:00:00.}}{57}{}%
+\contentsline {figure}{\numberline {32}{\ignorespaces \foreignlanguage {english}{2D} αναπαράσταση του αποτελέσματος του αλγορίθμου για τις 20 Μαρτίου στις 12:00:00.}}{57}{}%
+\contentsline {figure}{\numberline {33}{\ignorespaces \foreignlanguage {english}{2D} αναπαράσταση του αποτελέσματος του αλγορίθμου για τις 21 Ιουνίου στις 12:00:00.}}{57}{}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Ημερήσιο ποσοστό κάλυψης σκίασης για τις 21 Δεκεμβρίου, 20 Μαρτίου και 21 Ιουνίου.}}{58}{}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Ετήσιο ποσοστό κάλυψης σκίασης.}}{59}{}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Ολική ηλιακή ακτινοβολία σε οριζόντιο επίπεδο και σκίαση για το πυρανόμετρο 1 στις 7 Αυγούστου 2023.}}{60}{}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Ολική ηλιακή ακτινοβολία σε οριζόντιο επίπεδο και σκίαση για το πυρανόμετρο 2 στις 7 Αυγούστου 2023.}}{60}{}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Συντελεστές μεταβλητότητας για τα σύνολα δεδομένων της μεταβολής της ακτινοβολίας και οι τάσεις τους για σκιασμένα και μη σκιασμένα σημεία για το πυρανόμετρο 1.}}{62}{}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Συντελεστές μεταβλητότητας για τα σύνολα δεδομένων της μεταβολής της ακτινοβολίας και οι τάσεις τους για σκιασμένα και μη σκιασμένα σημεία για το πυρανόμετρο 2.}}{62}{}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Φωτοβολταϊκές μονάδες ως αδιαφανής επιφάνεια (αριστερά) και ως ημιδιαφανής επιφάνεια (δεξιά) \lcitep {strawberries_bib17}}}{68}{}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Μέθοδος προσδιορισμού της θέσης ενός σημείου: (α) το σημείο βρίσκεται εντός της επιθυμητής επιφάνειας, (β) το σημείο βρίσκεται εκτός της επιθυμητής επιφάνειας.}}{71}{}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Σκιά που σχηματίζεται από τις φωτοβολταϊκές μονάδες της βόρειας κατασκευαστικής μονάδας: (α) η κόκκινη περιοχή αντιστοιχεί στη σκιά που σχηματίζουν οι ηλιακές κυψέλες, (β) η πράσινη περιοχή αντιστοιχεί στην επίδραση του “διαφανούς” τμήματος των φωτοβολταϊκών μονάδων. Ο λευκός χώρος δεν επηρεάζεται από τα φωτοβολταϊκά.}}{73}{}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Εξωτερική \foreignlanguage {english}{GHI}, εσωτερική \foreignlanguage {english}{GHI} και αποτελέσματα αλγορίθμου για τις 29 Απριλίου 2024, 28 Μαΐου 2024 και 21 Ιουνίου 2024, καταγεγραμμένα από (α), (γ), (ε) το πυρανόμετρο 1, (β), (δ), (στ) το πυρανόμετρο 2. (Κόκκινες περιοχές: περίοδοι κατά τις οποίες το πυρανόμετρο βρίσκεται εντός της σκιασμένης περιοχής που σχηματίζουν οι ηλιακές κυψελίδες. Πράσινες περιοχές: περίοδοι κατά τις οποίες το πυρανόμετρο είναι υπό την επίδραση μόνο του “διαφανούς” τμήματος των φωτοβολταϊκών.)}}{76}{}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Συντελεστές μεταβλητότητας για τα σύνολα δεδομένων μεταβολής της ακτινοβολίας μεταξύ (\foreignlanguage {english}{a}) της περίπτωσης \foreignlanguage {english}{$b_{cv}$} και \foreignlanguage {english}{$a_{cv}$}, (\foreignlanguage {english}{b}) της περίπτωσης \foreignlanguage {english}{$c_{cv}$} και \foreignlanguage {english}{$a_{cv}$} και (\foreignlanguage {english}{c}) της περίπτωσης \foreignlanguage {english}{$d_{cv}$} και \foreignlanguage {english}{$a_{cv}$} για το πυρανόμετρο 1.}}{78}{}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Συντελεστές μεταβλητότητας για τα σύνολα δεδομένων μεταβολής της ακτινοβολίας μεταξύ (\foreignlanguage {english}{a}) της περίπτωσης \foreignlanguage {english}{$b_{cv}$} και \foreignlanguage {english}{$a_{cv}$}, (\foreignlanguage {english}{b}) της περίπτωσης \foreignlanguage {english}{$c_{cv}$} και \foreignlanguage {english}{$a_{cv}$} και (\foreignlanguage {english}{c}) της περίπτωσης \foreignlanguage {english}{$d_{cv}$} και \foreignlanguage {english}{$a_{cv}$} για το πυρανόμετρο 2.}}{79}{}%
+\contentsline {figure}{\numberline {46}{\ignorespaces \foreignlanguage {english}{GHI} και ένδειξη σκίασης στις 22 Ιουνίου 2024, για (α) το πυρανόμετρο 1 και (β) το πυρανόμετρο 2.}}{80}{}%
+\contentsline {figure}{\numberline {47}{\ignorespaces \foreignlanguage {english}{PAR} και ένδειξη σκίασης στις 22 Ιουνίου 2024, για (α) το πυρανόμετρο 1 και (β) το πυρανόμετρο 2.}}{81}{}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Μέσο ημερήσιο ποσοστό σκιασμένης επιφάνειας για τις γραμμές φύτευσης Α και Β και εσωτερική θερμοκρασία.}}{88}{}%
+\contentsline {figure}{\numberline {49}{\ignorespaces (α) και (β): Καλλιέργεια φράουλας στο θερμοκήπιο.}}{89}{}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Μέσο μέτρο διανύσματος φυτού για τις γραμμές φύτευσης Α και Β (\foreignlanguage {english}{mean $\pm $ SE, n = 28}) σε συνδυασμό με το μέσο ημερήσιο ποσοστό της σκιασμένης επιφάνειας.}}{91}{}%
+\contentsline {figure}{\numberline {51}{\ignorespaces (α) Μέσος αριθμός φύλλων κατά την πειραματική περίοδο (\foreignlanguage {english}{mean $\pm $ SE, n = 28}). (β) Μέσος αριθμός ανθέων κατά την πειραματική περίοδο (\foreignlanguage {english}{mean $\pm $ SE, n = 28}). (γ) Συνολικός αριθμός φύλλων για κάθε γραμμή φύτευσης σε συνδυασμό με το μέσο ημερήσιο ποσοστό της σκιασμένης επιφάνειας. (δ) Συνολικός αριθμός ανθέων για κάθε γραμμή φύτευσης σε συνδυασμό με το μέσο ημερήσιο ποσοστό της σκιασμένης επιφάνειας. (ε) Σωρευτικό αθροιστικό διάγραμμα του αριθμού φύλλων για κάθε γραμμή φύτευσης. (στ) Σωρευτικό αθροιστικό διάγραμμα του αριθμού ταξιανθιών για κάθε γραμμή φύτευσης.}}{92}{}%
+\contentsline {figure}{\numberline {52}{\ignorespaces (α) Μέσος αριθμός ώριμων (κόκκινων) καρπών κατά την πειραματική περίοδο (\foreignlanguage {english}{mean $\pm $ SE, n = 28}). (β) Μέσο βάρος ώριμων (κόκκινων) καρπών κατά την πειραματική περίοδο (\foreignlanguage {english}{mean $\pm $ SE, n = 28}). (γ) Συνολικός αριθμός ώριμων καρπών για κάθε γραμμή φύτευσης σε συνδυασμό με το μέσο ημερήσιο ποσοστό της σκιασμένης επιφάνειας. (δ) Συνολικό βάρος ώριμων καρπών για κάθε γραμμή φύτευσης σε συνδυασμό με το μέσο ημερήσιο ποσοστό της σκιασμένης επιφάνειας. (ε) Σωρευτικό αθροιστικό διάγραμμα του αριθμού ώριμων καρπών για κάθε γραμμή φύτευσης. (στ) Σωρευτικό αθροιστικό διάγραμμα του αριθμού βάρους ώριμων καρπών για κάθε γραμμή φύτευσης.}}{93}{}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Αποτελέσματα ολικής περιεκτικότητας σε φαινόλες στις φράουλες. (α) Καμπύλη βαθμονόμησης του Γαλλικού Οξέος ($y = 2,2657 \cdot x + 0,1342$). (β) Η \foreignlanguage {english}{TPC} στις φράουλες εκφράζεται ως \SI {}{\milli \gram } \foreignlanguage {english}{GAE} ανά \SI {}{\gram } φράουλας. Δύο αστερίσκοι (**) υποδεικνύουν στατιστικά σημαντικές διαφορές (\foreignlanguage {english}{\emph {p} $\leq $} 0,01) μεταξύ των δύο γραμμών φύτευσης φραουλών.}}{94}{}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Αποτελέσματα της ανάλυσης \foreignlanguage {english}{DPPH} στις φράουλες. (α) Καμπύλη βαθμονόμησης του \foreignlanguage {english}{L}-ασκορβικού οξέος ($y = 0,6858 \cdot x + 4,21288$). (β) Η ικανότητα δέσμευσης \foreignlanguage {english}{DPPH} στις φράουλες εκφράζεται ως \SI {}{\milli \gram } \foreignlanguage {english}{AAE} ανά \SI {}{\gram } φράουλας. Τρεις αστερίσκοι (***) υποδεικνύουν στατιστικά σημαντικές διαφορές (\foreignlanguage {english}{\emph {p} $\leq $} 0,0001) μεταξύ των δύο γραμμών φύτευσης φραουλών.}}{95}{}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\contentsline {figure}{\numberline {{\greekscript \textBeta \textnumeralsigngreek }1}{\ignorespaces Θέση του Ήλιου σε σφαιρικές συντεταγμένες για τις 21 Δεκεμβρίου, 20 Μαρτίου και 21 Ιουνίου: \foreignlanguage {english}{(a)} Ηλιακή Ζενίθια Γωνία (\SI {}{\degree }) και \foreignlanguage {english}{(b)} Ηλιακή Αζιμούθια Γωνία (\SI {}{\degree }).}}{105}{}%
+\contentsline {figure}{\numberline {{\greekscript \textBeta \textnumeralsigngreek }2}{\ignorespaces Απόσταση Γης-Ήλιου: \foreignlanguage {english}{(a)} για τις 21 Δεκεμβρίου, \foreignlanguage {english}{(b)} για τις 20 Μαρτίου και \foreignlanguage {english}{(c)} για τις 21 Ιουνίου.}}{106}{}%
+\contentsline {figure}{\numberline {{\greekscript \textBeta \textnumeralsigngreek }3}{\ignorespaces Απόσταση Γης-Ήλιου για ολόκληρο το έτος 2022.}}{106}{}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\contentsfinish 

@@ -1,0 +1,93 @@
+\babel@toc {greek}{}\relax 
+\contentsline {chapter}{Ευχαριστίες}{\EnsureStandardFontEncoding {i}}{}%
+\contentsline {chapter}{Περίληψη}{\EnsureStandardFontEncoding {ii}}{}%
+\contentsline {chapter}{\foreignlanguage {english}{Abstract}}{\EnsureStandardFontEncoding {iii}}{}%
+\contentsline {chapter}{Δημοσιεύσεις}{\EnsureStandardFontEncoding {iv}}{}%
+\contentsline {chapter}{Κατάλογος Εικόνων}{\EnsureStandardFontEncoding {ix}}{}%
+\contentsline {chapter}{Κατάλογος Πινάκων}{\EnsureStandardFontEncoding {x}}{}%
+\contentsline {section}{\numberline {1.}Εισαγωγή}{1}{}%
+\contentsline {subsection}{\numberline {1.1.}Έλεγχος και διαχείριση μικροκλίματος θερμοκηπίου}{1}{}%
+\contentsline {subsection}{\numberline {1.2.}Αγριβολταϊκά στα θερμοκήπια}{3}{}%
+\contentsline {subsection}{\numberline {1.3.}Καλλιέργειες και φωτοβολταϊκά}{5}{}%
+\contentsline {section}{\numberline {2.}Πειραματική διάταξη}{7}{}%
+\contentsline {subsection}{\numberline {2.1.}Το θερμοκήπιο}{7}{}%
+\contentsline {subsection}{\numberline {2.2.}Εξοπλισμός}{8}{}%
+\contentsline {subsection}{\numberline {2.3.}Φωτοβολταϊκές μονάδες}{14}{}%
+\contentsline {subsection}{\numberline {2.4.}Λοιπά στοιχεία φωτοβολταϊκού συστήματος}{18}{}%
+\contentsline {section}{\numberline {3.}Μοντέλο νευρωνικού δικτύου για προβλέψεις μικροκλίματος θερμοκηπίου}{22}{}%
+\contentsline {subsection}{\numberline {3.1.}Συλλογή δεδομένων και μεθοδολογία}{24}{}%
+\contentsline {subsection}{\numberline {3.2.}Ανάπτυξη μοντέλου}{28}{}%
+\contentsline {subsection}{\numberline {3.3.}Αποτελέσματα και συζήτηση}{30}{}%
+\contentsline {subsection}{\numberline {3.4.}Συμπεράσματα}{34}{}%
+\contentsline {section}{\numberline {4.}Αλγόριθμος για τον υπολογισμό της σκίασης που δημιουργείται από φωτοβολταϊκά ενσωματωμένα στο θερμοκήπιο}{36}{}%
+\contentsline {subsection}{\numberline {4.1.}Μεθοδολογία}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.1.}Υπολογισμοί για την θέση του Ήλιου}{41}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.}Μετασχηματισμοί από σφαιρικό σε Καρτεσιανό σύστημα συντεταγμένων}{43}{}%
+\contentsline {subsubsection}{\numberline {4.1.3.}Συντεταγμένες του θερμοκηπίου στο Καρτεσιανό σύστημα συντεταγμένων}{45}{}%
+\contentsline {subsubsection}{\numberline {4.1.4.}Υπολογισμός συντεταγμένων σκιάς}{47}{}%
+\contentsline {subsubsection}{\numberline {4.1.5.}Δυαδική ανάλυση}{49}{}%
+\contentsline {subsubsection}{\numberline {4.1.6.}Υπολογισμός της σκιασμένης επιφάνειας στο θερμοκήπιο}{50}{}%
+\contentsline {subsubsection}{\numberline {4.1.7.}Διερεύνηση σκιασμένων σημείων}{50}{}%
+\contentsline {subsubsection}{\numberline {4.1.8.}Πλήρης αλγόριθμος}{51}{}%
+\contentsline {subsubsection}{\numberline {4.1.9.}Μέθοδος επικύρωσης του αλγορίθμου}{51}{}%
+\contentsline {subsection}{\numberline {4.2.}Αποτελέσματα}{53}{}%
+\contentsline {subsubsection}{\numberline {4.2.1.}Έξοδοι (\foreignlanguage {english}{outputs}) του αλγορίθμου}{53}{}%
+\contentsline {subsubsection}{\numberline {4.2.2.}Αποτελέσματα επικύρωσης του αλγορίθμου}{59}{}%
+\contentsline {subsection}{\numberline {4.3.}Συζήτηση}{63}{}%
+\contentsline {subsection}{\numberline {4.4.}Συμπεράσματα}{64}{}%
+\contentsline {section}{\numberline {5.}Αλγοριθμικές εξελίξεις στα Αγριβολταϊκά: Μοντελοποίηση των επιδράσεων σκίασης από ημιδιαφανή φωτοβολταϊκά}{66}{}%
+\contentsline {subsection}{\numberline {5.1.}Βελτιώσεις και τροποποιήσεις}{67}{}%
+\contentsline {subsection}{\numberline {5.2.}Μέθοδος επικύρωσης του αλγορίθμου}{71}{}%
+\contentsline {subsection}{\numberline {5.3.}Αποτελέσματα και συζήτηση}{74}{}%
+\contentsline {subsubsection}{\numberline {5.3.1.}Αποτελέσματα επικύρωσης του αλγορίθμου}{74}{}%
+\contentsline {subsubsection}{\numberline {5.3.2.}Συγκρίσεις για τις \foreignlanguage {english}{GHI} και \foreignlanguage {english}{PAR}}{79}{}%
+\contentsline {subsubsection}{\numberline {5.3.3.}Προκλήσεις για τους υπολογισμούς της σκίασης στο θερμοκήπιο}{83}{}%
+\contentsline {subsection}{\numberline {5.4.}Συμπεράσματα}{84}{}%
+\contentsline {section}{\numberline {6.}Ανάπτυξη και φυσιολογικά χαρακτηριστικά φυτών φράουλας υπό την επίδραση ημι-διαφανών φωτοβολταϊκών ενσωματωμένων σε θερμοκήπιο}{86}{}%
+\contentsline {subsection}{\numberline {6.1.}Συλλογή δεδομένων και μεθοδολογία}{87}{}%
+\contentsline {subsubsection}{\numberline {6.1.1.}Αλγόριθμος υπολογισμού σκίασης}{87}{}%
+\contentsline {subsubsection}{\numberline {6.1.2.}Μετρήσεις ανάπτυξης, μορφολογίας και απόδοσης}{88}{}%
+\contentsline {subsubsection}{\numberline {6.1.3.}Μεθοδολογία παρασκευής και εκχύλισης δείγματος}{89}{}%
+\contentsline {subsubsection}{\numberline {6.1.4.}Αναλύσεις \foreignlanguage {english}{TPC} και \foreignlanguage {english}{DPPH}}{89}{}%
+\contentsline {subsubsection}{\numberline {6.1.5.}Καμπύλες βαθμονόμησης γαλλικού οξέος και \foreignlanguage {english}{L}-ασκορβικού οξέος}{90}{}%
+\contentsline {subsubsection}{\numberline {6.1.6.}Στατιστική ανάλυση}{90}{}%
+\contentsline {subsection}{\numberline {6.2.}Αποτελέσματα}{90}{}%
+\contentsline {subsubsection}{\numberline {6.2.1.}Δεδομένα ανάπτυξης και μορφολογίας}{90}{}%
+\contentsline {subsubsection}{\numberline {6.2.2.}Ολική περιεκτικότητα σε φαινόλες και αντιοξειδωτική δράση}{93}{}%
+\contentsline {subsection}{\numberline {6.3.}Συζήτηση}{95}{}%
+\contentsline {section}{\numberline {7.}Γενική συζήτηση και συµπεράσµατα}{97}{}%
+\contentsline {section}{Παράρτημα}{99}{}%
+\contentsline {subsection}{\numberline {{\greekscript \textAlpha \textnumeralsigngreek }}Κώδικας \foreignlanguage {english}{MATLAB}}{99}{}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\contentsline {subsection}{\numberline {{\greekscript \textBeta \textnumeralsigngreek }}Εικόνες}{105}{}%
+\contentsline {chapter}{Βιβλιογραφία}{107}{}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\contentsfinish 
